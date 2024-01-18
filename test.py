@@ -1,7 +1,5 @@
-
-import main
 import unittest
-from venv import main
+import main
 
 
 class TestMain(unittest.TestCase):
